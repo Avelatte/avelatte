@@ -1,5 +1,4 @@
-## Haaaai c:
+## Haaaai!
 
-I'm still setting things up, so this profile is a little empty.
-
-Thanks for your patience :>
+# Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avythebird&layout=donut&theme=tokyonight)](https://github.com/avythebird/github-readme-stats)
