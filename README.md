@@ -11,3 +11,5 @@ I'm a 21yo Brazilian Computer Science student, and currently working on small pr
 ## Languages and Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=linux,godot,gamemakerstudio,unity,py,cs)](https://skillicons.dev)
+
+> Still Learning: C, C++, Java, Rust, HTML/CSS, Javascript
