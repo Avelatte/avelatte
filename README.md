@@ -1,4 +1,13 @@
-## Haaaai!
+# Haaaai! I'm Aveline! Or Avy!
 
-### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avythebird&layout=donut&theme=tokyonight)](https://github.com/avythebird/github-readme-stats)
+> pt-BR/en-US (and studying zh-CN)
+
+I'm a 21yo Brazilian Computer Science student, and currently working on small projects (mostly games). Asides from game development I'm also an experienced Linux user and been daily driving Arch for at least three years.
+
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avythebird&layout=donut&theme=radical)](https://github.com/avythebird/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avythebird&show_icons=true&theme=radical)
+
+## Languages and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=linux,godot,gamemakerstudio,unity,py,cs)](https://skillicons.dev)
