@@ -1,4 +1,4 @@
-# Haaaai! I'm Aveline! Or Avy!
+# Hello! I'm Aveline!
 
 > pt-BR/en-US (and studying zh-CN)
 
