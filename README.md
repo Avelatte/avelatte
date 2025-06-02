@@ -2,7 +2,7 @@
 
 > pt-BR/en-US (and studying zh-CN)
 
-I'm a 21yo Brazilian Computer Science student, and currently working on small projects (mostly games). Aside from game development I'm also an experienced Linux user and been daily driving Arch for at least three years.
+I'm a 21yo Brazilian Computer Science student, and currently working on small projects (mostly games).
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
