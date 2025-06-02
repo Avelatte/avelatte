@@ -1,8 +1,6 @@
 # Hello! I'm Aveline!
 
-> pt-BR/en-US (and studying zh-CN)
-
-I'm a 21yo Brazilian Computer Science student, and currently working on small projects (mostly games).
+I'm a 21yo Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, and currently working on small projects (mostly games). Fluent in English and currently learning Mandarin.
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
@@ -15,6 +13,6 @@ I'm a 21yo Brazilian Computer Science student, and currently working on small pr
 
 ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,godot,java,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,godot,git,java,py,c)](https://skillicons.dev)
 
 > Still Learning: C++, Rust, HTML/CSS, Javascript
