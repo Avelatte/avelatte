@@ -4,7 +4,7 @@ I'm a 21yo Brazilian Computer Science student passionate about Tech, Gaming and 
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avythebird&theme=radical&layout=donut&card_width=320$asdaf"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avythebird&theme=radical&layout=donut&card_width=320"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
