@@ -15,4 +15,4 @@ I'm a 21yo Brazilian Computer Science student passionate about Tech, Gaming and 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,godot,bash,git,java,py,c)](https://skillicons.dev)
 
-> Still Learning: C++, Rust, HTML/CSS, Javascript
+> Still Learning: C++, Rust, HTML/CSS, Javascript, Lua
