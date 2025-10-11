@@ -1,6 +1,6 @@
 # Hello! I'm Aveline!
 
-I'm a 21yo Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, and currently working on small projects (mostly games). Fluent in English and currently learning Mandarin.
+I'm a 22yo Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, and currently working on small projects (mostly games). Fluent in English and currently learning Mandarin.
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
