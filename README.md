@@ -6,6 +6,7 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 
 ## Languages and Technologies
 
-[![Favorite Languages](https://skillicons.dev/icons?i=bash,git,py,c,html,css,js,java)](https://skillicons.dev)
+[![Favorite Languages](https://skillicons.dev/icons?i=bash,git,py,c,cs,html,css,js,java)](https://skillicons.dev)
+[![Favorite Tools](https://skillicons.dev/icons?i=linux,godot,unity,docker)](https://skillicons.dev)
 
 > Still Learning: C++, Rust, Lua, React
