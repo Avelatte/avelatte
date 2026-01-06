@@ -10,3 +10,8 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 [![Favorite Tools](https://skillicons.dev/icons?i=linux,godot,unity,docker)](https://skillicons.dev)
 
 > Still Learning: C++, Rust, Lua, React
+
+## Contact
+
+If you need to contact me, send me an email!
+dev.cacciatore@gmail.com
