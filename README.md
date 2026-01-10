@@ -6,12 +6,16 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 
 ## Profile Status
 
-![](https://nirzak-streak-stats.vercel.app/?user=Avelatte&theme=solarized-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Avelatte&theme=solarized-dark&hide_border=false)
 
 ## Languages and Technologies
 
-[![Favorite Languages](https://skillicons.dev/icons?i=bash,py,c,cs,html,css,js,java,lua)](https://skillicons.dev)
-[![Favorite Tools](https://skillicons.dev/icons?i=linux,godot,unity,docker,git)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,py,c,cs,html,css,js,java,lua" /><br />
+    <img src="https://skillicons.dev/icons?i=linux,godot,unity,docker,git" />
+  </a>
+</p>
 
 > Still Learning: C++, Rust, React
 
@@ -19,3 +23,5 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 
 If you need to contact me, send me an email!<br />
 dev.cacciatore@gmail.com
+
+![](https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif)
