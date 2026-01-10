@@ -11,6 +11,8 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 
 > Still Learning: C++, Rust, React
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
+
 ## Contact
 
 If you need to contact me, send me an email!<br />
