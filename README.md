@@ -1,8 +1,8 @@
 # Hello! I'm Aveline!
 
-I'm a Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, I'm currently working on small projects (mostly games). Fluent in English and learning Mandarin.
+I'm a Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, I'm currently working on small projects. Fluent in English and learning Mandarin.
 
-Experienced in Python development using Flask, Django, etc; Fullstack development; and Game development. I'm also interested in starting a research carreer!
+Experienced in Python development using Flask, Django, etc; Fullstack development; and Game/Mod development. I'm also interested in starting a research carreer!
 
 ## Profile Status
 
