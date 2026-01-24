@@ -1,4 +1,4 @@
-# Hello! I'm Aveline!
+# Hello! I'm Aveline! ✌️
 
 I'm a Brazilian Computer Science student passionate about Tech, Gaming and Astronomy, I'm currently working on small projects. Fluent in English and learning Mandarin.
 
