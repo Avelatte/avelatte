@@ -6,7 +6,7 @@ Experienced in Python development using Flask, Django, etc; Fullstack developmen
 
 ## Profile Status
 
-![](https://nirzak-streak-stats.vercel.app/?user=Avelatte&theme=solarized-dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com?user=Avelatte&theme=solarized_dark)
 
 ## Languages and Technologies
 
